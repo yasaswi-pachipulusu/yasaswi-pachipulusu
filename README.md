@@ -7,7 +7,7 @@ I'm an aspiring technology professional passionate about data analytics, program
 
 ## 👩‍💻 About Me
 
-- 📊 Interested in Data Analytics and Business Intelligence.
+- 📊 Interested in Data Analytics, QA Engineer and Business Intelligence.
 - 💻 Learning and building projects using Python and SQL.
 - 📈 Creating interactive dashboards using Power BI.
 - 🌱 Continuously improving my technical and analytical skills.
