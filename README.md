@@ -1,6 +1,5 @@
 # Hi, I'm Sree Yasaswi! 👋
-
-### Aspiring Data Analyst | Python Developer | SQL Enthusiast
+Aspiring Data Analyst | Python | SQL | Power BI
 
 Welcome to my GitHub profile! 
 
